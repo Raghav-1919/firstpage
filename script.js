@@ -5,6 +5,7 @@ var hitrn = 0;
 function incscore(){
     score += 10;
     document.querySelector("#scoreval").textContent = score;
+    //hello
 }
 
 function getNewHit(){
